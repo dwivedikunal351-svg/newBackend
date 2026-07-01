@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend project ",
+  "homepage": "https://github.com/dwivedikunal351-svg/newBackend#readme",
+  "bugs": {
+    "url": "https://github.com/dwivedikunal351-svg/newBackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwivedikunal351-svg/newBackend.git"
+  },
+  "license": "ISC",
+  "author": "Kunal Dwivedi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
